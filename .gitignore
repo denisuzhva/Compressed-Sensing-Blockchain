@@ -1,0 +1,6 @@
+**/datasets
+**/.vscode
+**/__pycache__
+**/checkpoints
+**/.ipynb_checkpoints
+**/tmp
